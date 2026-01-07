@@ -21,10 +21,10 @@
 ### 👨‍💻 About Me
 Data Science enthusiast with a BTech in Computer Science and practical experience gained through a Deloitte internship and multiple real-world data science projects. Currently pursuing an MSc in Data Science at the University of Glasgow, with hands-on experience in machine learning, data analysis, and model deployment.
 **🎯 Key Achievements:**
-- ✨ **Boosted ML model performance by 10–25%
-- ⚡ **Automated data pipelines, saving ~30% effort
-- 🛡️ **Built predictive models at Entri & Deloitte
-- 👥 **Hands-on with real-world data projects
+- ✨ **Boosted ML model performance by 10–25%**
+- ⚡ **Automated data pipelines, saving ~30% effort**
+- 🛡️ **Built predictive models at Entri & Deloitte**
+- 👥 **Hands-on with real-world data projects**
 
 </td>
 <td width="40%">
@@ -41,7 +41,7 @@ Status: Available for Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aromal-s-463385227/)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imaromal7x@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+44 7553929584)
+[![Phone](https://img.shields.io/badge/Phone-Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+447553929584)
 
 </div>
 
@@ -67,6 +67,7 @@ Status: Available for Opportunities
 timeline
     title Education & Learning Path
     2021-2024 : Bachelor's Degree
+              : 
               : Computer Science
 
     2025-2026 : Master's Degree
