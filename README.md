@@ -66,13 +66,17 @@ Status: Available for Opportunities
 ```mermaid
 timeline
     title Education & Learning Path
+
+    section Bachelor's
     2021-2024 : Bachelor's Degree
-              : 
               : Computer Science
 
+    section Master's
     2025-2026 : Master's Degree
               : Advanced Data Science
               : Specialization & Research
+
+
 ```
 
 </div>
@@ -219,7 +223,7 @@ Final Project:
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║                    AMALDEV DATA & ML PRACTITIONER            ║
+║                    AROMAL S  DATA & ML PRACTITIONER          ║
 ║                      Level:  50 Projects • Internships • ML  ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ 💪 Strength (Technical Skills):     ████████████████████ 95%║
